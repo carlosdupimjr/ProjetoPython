@@ -81,6 +81,8 @@ eles.
 42. Calcule e mostre a série 1 + 2/3 + 3/5 + ... + 50/99
 43. Calcule e mostre quantos anos serão necessários para que Ana seja maior que Maria
 sabendo que Ana tem 1,10 m e cresce 3 cm ao ano e Maria tem 1,5 m e cresce 2 cm ao ano.
+44. Receba o número da base e do expoente. Calcule e mostre o valor da potência.
+45. Calcule e mostre a série 1 – 2/4 + 3/9 – 4/16 + 5/25 - ... + 15/225
 
 ------
 
